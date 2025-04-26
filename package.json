@@ -1,0 +1,20 @@
+
+{
+  "name": "podcast-manager",
+  "version": "1.0.0",
+  "description": "Gerenciador de Podcasts usando Node.js com TypeScript e HTTP puro.",
+  "main": "dist/server.js",
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js"
+  },
+  "keywords": ["nodejs", "typescript", "podcast", "http"],
+  "author": "Gabriel Lafis",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.0.0"
+  }
+}
