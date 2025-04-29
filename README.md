@@ -57,5 +57,5 @@ O servidor rodará por padrão em: `http://localhost:3333`
 
 ## 📝 Inspiração
 
-Projeto feito por mim e inspirado no desafio prático da DIO:
+Projeto inspirado no desafio prático da DIO:
 [https://github.com/felipeAguiarCode/node-ts-webapi-without-frameworks-podcast-menager](https://github.com/felipeAguiarCode/node-ts-webapi-without-frameworks-podcast-menager)
